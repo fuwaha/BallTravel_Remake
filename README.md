@@ -7,7 +7,7 @@
 
 | ゲーム画面 | クリア画面 |
 | :---: | :---: |
-| ![ゲーム画面](Docs/Images/ingame.png) | ![クリア画面](Docs/Images/clear.png) |
+| ![ゲーム画面](Docs/Images/ingame.png) | 
 
 ---
 
